@@ -27,5 +27,7 @@ streamlit run app.py
 
 ## Data
 This app uses two publicly available datasets from the UCI Machine Learning Repository.
+
 https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-red.csv
+
 https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-white.csv
